@@ -1,0 +1,15 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #07689f;
+    color: #ffc93c;
+    padding: 1%;
+    
+}
+.navbar h1{
+    font-size: 170%;
+}
+.navbar p{
+    font-size: 170%;
+}
